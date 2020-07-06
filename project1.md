@@ -6,4 +6,4 @@
 
 **Thoughts:** And we're off....
 
-**Link to work:** [Calculator](https://github.com/Bren08/calculator.git)
+**Link to work:** [Calculator](https://bren08.github.io/calculator/.)
