@@ -8,7 +8,7 @@
 
 **Link to work:** [Calculator](https://bren08.github.io/calculator/.)
 
-### Day 2: July 07 Monday
+### Day 2: July 07 Tuesday
 
 **Today's Progress**: Styled the interface of the calculator, gave indentification attributes to the button elements in the html but JS is not playing ball with me right now! error reads: ';' expected. ts(1005)
 
