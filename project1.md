@@ -23,3 +23,11 @@
 **Thoughts:** A lot happier with how the JS is working now.. don't love it but also don't hae it... yet!
 
 **Link to work:** [Calculator](https://bren08.github.io/calculator/.)
+
+### Day 4: July 10 Friday
+
+**Today's Progress**: Missed a day due to it being my birthday (that's allowed I'm sure) but got back on track after some problems arose, the JS seems ok now, added some logic to help along the operational buttons to tot up on the interface.
+
+**Thoughts:** Happy Birthday to me!!
+
+**Link to work:** [Calculator](https://bren08.github.io/calculator/.)
