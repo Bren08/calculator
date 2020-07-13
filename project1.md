@@ -31,3 +31,19 @@
 **Thoughts:** Happy Birthday to me!!
 
 **Link to work:** [Calculator](https://bren08.github.io/calculator/.)
+
+### Day 5: July 11 Saturday
+
+**Today's Progress**: It's mainly all JS now to finish off. Again ran into problems with JS and missing some vital functions to be fully operational.
+
+**Thoughts:** Today was a good day, even if it didn't go as planned, I've learned to be more patient to see errors within code.
+
+**Link to work:** [Calculator](https://bren08.github.io/calculator/.)
+
+### Day 6: July 13 Monday
+
+**Today's Progress**: Finally finished off the last bits of JS and now the calculator is fully operational and it's not broken.
+
+**Thoughts:** First few days complete with the challenge, it's hard going to even get the hour in everday with other commitments, family, work etc, but I'm getting there (even if "Life" gets in the way). Trying my best to fit in the hour each day.
+
+**Link to work:** [Calculator](https://bren08.github.io/calculator/.)
