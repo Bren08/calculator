@@ -15,3 +15,11 @@
 **Thoughts:** JS is busting my... so time is up now and we shall try again tomorrow.
 
 **Link to work:** [Calculator](https://bren08.github.io/calculator/.)
+
+### Day 3: July 08 Wednesday
+
+**Today's Progress**: Resolved some JS issues I was having (syntax errors) so once we got shot of them, I got going again but didn't leave much time left within the hour.
+
+**Thoughts:** A lot happier with how the JS is working now.. don't love it but also don't hae it... yet!
+
+**Link to work:** [Calculator](https://bren08.github.io/calculator/.)
